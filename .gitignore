@@ -2,3 +2,5 @@
 /keyssh
 /keyssh.pub
 /.next
+.DS_Store
+*.DS_Store
